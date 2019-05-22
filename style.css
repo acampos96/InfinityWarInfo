@@ -1,0 +1,18 @@
+.logo{
+  height: 90px;
+}
+.pad{
+  padding: 10px
+}
+.card:hover{
+  opacity: 0.85;
+}
+.ban{
+  width: inherit;
+}
+.act{
+  height: 300px;
+}
+.padb{
+margin-bottom: 15px; 
+}
